@@ -1,9 +1,11 @@
-/* Box sizing rules */
 *,
 *::before,
 *::after {
   box-sizing: border-box;
 }
+/* Box sizing rules */
+
+
 /* Remove default margin */
 body,
 h1,
